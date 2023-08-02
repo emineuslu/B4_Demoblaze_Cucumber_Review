@@ -1,5 +1,4 @@
 package com.demoblaze.utilities;
-
 import org.apache.commons.io.FileUtils;
 import org.junit.Assert;
 import org.openqa.selenium.*;
